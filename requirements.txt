@@ -1,2 +1,5 @@
 aws-cdk-lib==2.10.0
 constructs>=10.0.0,<11.0.0
+cdk-lambda-powertools-python-layer
+aws_cdk.aws_lambda_python_alpha
+aws_cdk.aws_apigatewayv2_integrations_alpha
